@@ -1,0 +1,139 @@
+{
+    "games": [
+        {
+           "name": "Grand Theft Auto V",
+           "rating":  0.91,
+           "releaseDate": "2015-04-14",
+           "developer": "Rockstar Games",
+           "price": 23.50,
+           "tags": [
+               "Open World",
+               "Action",
+               "Multiplayer",
+               "Automobile Sim",
+               "Crime"
+           ],
+           "imageName": "gta_v.jpg"
+        },
+        {
+            "name": "ARK: Survival Evolved",
+            "rating":  0.82,
+            "releaseDate": "2017-08-27",
+            "developer": "Studio Wildcard",
+            "price": 24.99,
+            "tags": [
+                "Open World Survival Craft",
+                "Survival",
+                "Open World",
+                "Multiplayer",
+                "Dinosaurs"
+            ],
+            "imageName": "ark.jpg"
+         },
+         {
+            "name": "FIFA 22",
+            "rating":  0.79,
+            "releaseDate": "2021-10-1",
+            "developer": "EA Canada & EA Romania",
+            "price": 9.59,
+            "tags": [
+                "Soccer",
+                "Sports",
+                "Multiplayer",
+                "Simulation",
+                "Football"
+            ],
+            "imageName": "fifa_22.jpg"
+         },
+         {
+            "name": "Counter-Strike: Global Offensive",
+            "rating":  0.88,
+            "releaseDate": "2012-08-21",
+            "developer": "Valve",
+            "price": 0.00,
+            "tags": [
+                "FPS",
+                "Shooter",
+                "Multiplayer",
+                "Competitive",
+                "Action"
+            ],
+            "imageName": "cs_go.jpg"
+         },
+         {
+            "name": "Dota 2",
+            "rating":  0.75,
+            "releaseDate": "2013-07-9",
+            "developer": "Valve",
+            "price": 0.00,
+            "tags": [
+                "Free to Play",
+                "MOBA",
+                "Multiplayer",
+                "Strategy",
+                "eSports"
+            ],
+            "imageName": "dota_2.jpg"
+         },
+         {
+            "name": "Call of Duty®: Black Ops III",
+            "rating":  0.93,
+            "releaseDate": "2015-11-6",
+            "developer": "Treyarch",
+            "price": 59.99,
+            "tags": [
+                "Multiplayer",
+                "FPS",
+                "Zombies",
+                "Shooter",
+                "Action"
+            ],
+            "imageName": "call_of_duty.jpg"
+         },
+         {
+            "name": "Team Fortress 2",
+            "rating":  0.89,
+            "releaseDate": "2007-10-10",
+            "developer": "Valve",
+            "price": 0.00,
+            "tags": [
+                "Free to Play",
+                "Hero Shooter",
+                "Multiplayer",
+                "FPS",
+                "Shooter"
+            ],
+            "imageName": "team_fortress_2.jpg"
+         },
+         {
+            "name": "World of Tanks",
+            "rating":  0.88,
+            "releaseDate": "2021-04-19",
+            "developer": "Wargaming Group Limited",
+            "price": 0.00,
+            "tags": [
+                "Tanks",
+                "Free to Play",
+                "Action",
+                "Vehicular Combat",
+                "Massively Multiplayer"
+            ],
+            "imageName": "world_of_tanks.jpg"
+         },
+         {
+            "name": "Tom Clancy's Rainbow Six® Siege",
+            "rating":  0.82,
+            "releaseDate": "2015-12-1",
+            "developer": "Ubisoft Montreal",
+            "price": 19.99,
+            "tags": [
+                "FPS",
+                "Hero Shooter",
+                "Multiplayer",
+                "Tactical",
+                "Shooter"
+            ],
+            "imageName": "tom_clancys_six_siege.jpg"
+         }
+    ]
+}
